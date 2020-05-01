@@ -1,7 +1,9 @@
 // This is a generated file; do not edit or check into version control.
-FLUTTER_ROOT=/Users/xueyujing/Desktop/Flutter/flutter
-FLUTTER_APPLICATION_PATH=/Users/xueyujing/Desktop/flutterDemo/FlutterPlugin/video_player_header-0.10.2+1/example
-FLUTTER_TARGET=lib/main.dart
+FLUTTER_ROOT=C:\Temp\flutter_stable_hotfix9
+FLUTTER_APPLICATION_PATH=C:\Users\sewer\Desktop\videoPlayerWithHeader-master\example
+FLUTTER_TARGET=lib\main.dart
 FLUTTER_BUILD_DIR=build
-SYMROOT=${SOURCE_ROOT}/../build/ios
-FLUTTER_FRAMEWORK_DIR=/Users/xueyujing/Desktop/Flutter/flutter/bin/cache/artifacts/engine/ios
+SYMROOT=${SOURCE_ROOT}/../build\ios
+FLUTTER_FRAMEWORK_DIR=C:\Temp\flutter_stable_hotfix9\bin\cache\artifacts\engine\ios
+FLUTTER_BUILD_NAME=1.0.0
+FLUTTER_BUILD_NUMBER=1
