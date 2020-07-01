@@ -1,7 +1,7 @@
 import 'dart:async';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/widgets.dart';
-import 'package:video_player_header/video_player_header.dart';
+import 'package:video_player_header_c_b/video_player_header_c_b.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 class FakeController extends ValueNotifier<VideoPlayerValue>

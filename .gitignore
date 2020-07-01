@@ -9,11 +9,12 @@
 .history
 .svn/
 
-# IntelliJ related
+# IDE related
 *.iml
 *.ipr
 *.iws
 .idea/
+.vscode/
 
 
 # The .vscode folder contains launch configuration and tasks you configure in

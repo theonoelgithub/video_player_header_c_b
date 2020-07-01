@@ -4,13 +4,12 @@ description: Demonstrates how to use the video_player_header plugin.
 dependencies:
   flutter:
     sdk: flutter
+  video_player_header_c_b:
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
 
-  video_player_header:
-    path: ../
 
 flutter:
   uses-material-design: true
