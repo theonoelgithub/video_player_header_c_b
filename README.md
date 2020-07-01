@@ -1,4 +1,6 @@
 Fork from Video Player plugin flutter and adding headers
+Initial plugin Video player Flutter
+Forked from sanrixue & sewergranger repos
 
 # Video Player plugin for Flutter
 
