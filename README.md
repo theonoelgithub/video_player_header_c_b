@@ -57,7 +57,7 @@ The Flutter project template adds it, so it may already be there.
 ### Example
 
 ```dart
-import 'package:video_player_header/video_player_header.dart';
+import 'package:video_player_header_c_b/video_player_header_c_b.dart';
 import 'package:flutter/material.dart';
 
 void main() => runApp(VideoApp());
